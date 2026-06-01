@@ -35,3 +35,9 @@ A full-featured **Assignment Management System** built using **Streamlit** and *
 ```bash
 git clone https://github.com/ssr446/assignment-management-system.git
 cd assignment-management-system
+
+# 📚 Assignment Management System
+
+**[🟢 Click Here to Try the Live Application](https://assignment-management-system-saishivaram.streamlit.app/)**
+
+A full-featured Assignment Management System built using Streamlit and SQLite...
