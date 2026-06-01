@@ -1,17 +1,19 @@
 # 📚 Assignment Management System
 
+**[🟢 Click Here to Try the Live Application](https://assignment-management-system-saishivaram.streamlit.app/)**
+
 A full-featured **Assignment Management System** built using **Streamlit** and **SQLite**, allowing teachers, coordinators, and students to interact with academic assignment data.
 
 ---
 
 ## 🚀 Features
 
-- 🔐 Role-based Login System
-- 📊 Teacher Dashboard – View assignment submissions
-- 🗂️ Coordinator Dashboard – Add assignments
-- 🧑‍🎓 Student Dashboard – View, track, and submit assignments
-- 🎨 Custom CSS styling with due/overdue highlights
-- 💾 Local SQLite database (no external server required)
+- 🔐 **Role-based Login System**
+- 📊 **Teacher Dashboard** – View assignment submissions
+- 🗂️ **Coordinator Dashboard** – Add assignments
+- 🧑‍🎓 **Student Dashboard** – View, track, and submit assignments
+- 🎨 **Custom CSS styling** with due/overdue highlights
+- 💾 **Local SQLite database** (no external server required)
 
 ---
 
@@ -28,16 +30,10 @@ A full-featured **Assignment Management System** built using **Streamlit** and *
 
 ---
 
-## 💻 How to Run the App
+## 💻 How to Run the App Locally
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ssr446/assignment-management-system.git
+git clone [https://github.com/ssr446/assignment-management-system.git](https://github.com/ssr446/assignment-management-system.git)
 cd assignment-management-system
-
-# 📚 Assignment Management System
-
-**[🟢 Click Here to Try the Live Application](https://assignment-management-system-saishivaram.streamlit.app/)**
-
-A full-featured Assignment Management System built using Streamlit and SQLite...
